@@ -29,7 +29,10 @@ else:
        14: "PVO",
        15: "SRB",
        16: "SLU",
-       17: "TPJ"
+       17: "TPJ",
+       18: "MAR",
+       19: "BCB",
+       20: "PDD"
     }
         
     client_name = str.upper(input(f"Informe o nome do cliente: "))

@@ -20,7 +20,10 @@ sites_id = {
    14: "PVO",
    15: "SRB",
    16: "SLU",
-   17: "TPJ"
+   17: "TPJ",
+   18: "MAR",
+   19: "BCB",
+   20: "PDD"
 }
 site_id = int(input(f"Informe o ID do Site: \n\n{json.dumps(sites_id, indent=4)}\n\n"))
 print()
