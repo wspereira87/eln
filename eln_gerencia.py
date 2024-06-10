@@ -19,7 +19,7 @@ sites_id = {
    12: "JIP",
    13: "LEC",
    14: "PVO",
-   15: "SRB",
+   15: "RBR",
    16: "SLU",
    17: "TPJ",
    18: "MAR",
