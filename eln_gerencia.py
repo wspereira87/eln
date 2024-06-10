@@ -57,8 +57,8 @@ output = f'''interface {pe_intf}
   service-policy input FROM_MGMT
 !
 interface BDI250
- description VRF CONVERGENTE
- ip vrf forwarding CONVERGENTE
+ description Gerencia
+ ip vrf forwarding GERENCIA
  ip address {ip_p2p_pe} 255.255.255.240
  shutdown
 !
